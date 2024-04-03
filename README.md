@@ -1,2 +1,2 @@
-# Stories from the FIFA World Cups
-#### CS661 Course Project (2022-23 II Semester)
+# Stories from the IPL
+#### CS661 Course Project (2023-24 II Semester)
